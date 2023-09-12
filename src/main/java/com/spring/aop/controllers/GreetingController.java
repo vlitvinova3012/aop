@@ -1,6 +1,11 @@
 package com.spring.aop.controllers;
 
 import com.spring.aop.Greeting;
+<<<<<<< HEAD
+=======
+import lombok.extern.log4j.Log4j2;
+import lombok.extern.slf4j.Slf4j;
+>>>>>>> afec112 (Add AOP)
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
